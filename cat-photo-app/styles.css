@@ -1,5 +1,11 @@
-.cat-img {
+.cat-img, 
+.lasagna-img
+ {
     height: 300px;
     width: 300px;
     object-fit: cover;
+}
+
+.clowder-img {
+    height: 300px;
 }
